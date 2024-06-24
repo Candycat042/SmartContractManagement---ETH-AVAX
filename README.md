@@ -8,6 +8,7 @@ After cloning the github, you will want to do the following to get the code runn
 3. In the second terminal type: npx hardhat node
 4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
 5. Back in the first terminal, type npm run dev to launch the front-end.
+6. In the fourth terminal type: npm install react-toastify, install @mui/material @emotion/react @emotion/styled,  npm install @mui/icons-material
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
